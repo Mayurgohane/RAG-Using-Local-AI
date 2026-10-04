@@ -1,0 +1,1 @@
+"""Query-time document retrieval."""

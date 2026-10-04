@@ -1,0 +1,10 @@
+pypdf
+numpy
+chromadb
+onnxruntime==1.19.2
+qdrant-client
+fastapi
+uvicorn
+huggingface_hub
+tokenizers
+chainlit
